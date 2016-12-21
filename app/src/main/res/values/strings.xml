@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Barter</string>
+    <string name="UserName">UserName</string>
+    <string name="user_name_hint">输入用户名</string>
+    <string name="Password">Password</string>
+    <string name="user_input_pwd">输入密码</string>
+    <string name="Login">Login</string>
 </resources>

@@ -1,4 +1,4 @@
-#Sat Dec 17 16:46:00 CST 2016
+#Wed Dec 21 20:29:46 CST 2016
 base.0=E\:\\dev\\AndroidStudioProjects\\Barter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_86d08eceb030451064ce8a1e17f1505a3e75b7a5
 renamed.1=classes.dex
 renamed.0=classes2.dex
