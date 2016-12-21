@@ -1,0 +1,7 @@
+#Sat Dec 17 16:46:00 CST 2016
+base.0=E\:\\dev\\AndroidStudioProjects\\Barter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_86d08eceb030451064ce8a1e17f1505a3e75b7a5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\dev\\AndroidStudioProjects\\Barter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6d213949ac7deca78ccc699d95cab4d2f0ca0442\\classes.dex
+base.1=E\:\\dev\\AndroidStudioProjects\\Barter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6d213949ac7deca78ccc699d95cab4d2f0ca0442
+file.0=E\:\\dev\\AndroidStudioProjects\\Barter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_86d08eceb030451064ce8a1e17f1505a3e75b7a5\\classes.dex

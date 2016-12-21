@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.1_46e885212587d53f3e99bfc2d7cd5f168acfa0ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.1_d2e2a8db390629bd91cfd5e62aa017ec9b827839\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator.SKYUSER-63F4AQR\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.1_0a6f0ae37677f439aac8a614b61276052a6d7070\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_fff60d44e1903fe83feef47a242c8a2266ea742c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.1_55a87585bbd3139d287f7ebf4c9f534f1229db9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.1_946ffbe9a9098762fe470761829d0c4a61b0c677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3d766ce0366fd2ffdea4111a65287d0f907d4624">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_86d08eceb030451064ce8a1e17f1505a3e75b7a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_dd850edaf7c473eea165544898e257c446b380f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_c8d696704eb5b4102bea155484552ae7a8a510bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.1_d7de37bf88fc04a7497c8d18f8e1380250ec86b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f5f4a308af3f0192c5c758630857cf3dff540816\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.1_de15b64d1fefd16bac1be7088ec94a54ae6ca98b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.1_00fa2aca5a8bea01a90799c36c551287dde47af8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a882833b715e02e7b84c956577020e60d0caaa5c">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6d213949ac7deca78ccc699d95cab4d2f0ca0442\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.1_2c07178202d66c0fdedbed623aa58b39b2ac649e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.1_a5a59d71e463f454adb3d9c926ca0698f3c43ee1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\dev\AndroidStudioProjects\Barter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_dd0e05e1e12da56b9496ab14d11e799d163f832b\classes.dex" />
+    </item>
+
+</items>
