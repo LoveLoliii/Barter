@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
                 .readTimeout(30, TimeUnit.SECONDS)
                 .build();
         Request request = new Request.Builder()
-                .url("http://172.16.18.133:8888/AndroidLogin/userwebservice/login?mName="+mUserName.getText()+"&mPassword="+mPassword.getText())
+                .url("http://172.16.18.133:8888/BarterServer/userwebservice/login?mName="+mUserName.getText()+"&mPassword="+mPassword.getText())
 
                 .build();
         Response response = okHttpClient.newCall(request).execute();
@@ -86,6 +86,11 @@ public class MainActivity extends AppCompatActivity {
         Log.i("login data", String.valueOf(response.body().charStream()));
 
         User u = gson.fromJson(response.body().charStream(),User.class);
-        Log.i("json data:",u.toString());
+        if( u !=null){
+            Log.i("json data:",u.toString());
+        }else{
+            Log.i("json data:","null");
+        }
+
     }
 }
