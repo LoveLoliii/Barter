@@ -1,4 +1,4 @@
-package com.ss.util;
+package com.ss.barter.util;
 
 import android.os.Handler;
 import android.os.Looper;

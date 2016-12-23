@@ -1,10 +1,10 @@
-package com.ss.model;
+package com.ss.barter.model;
 
 /**
  * Created by Administrator on 2016/12/22.
  */
 
-public class User {
+public class UserModel implements IUser {
     private int id;
     private String name;
     private String password;
@@ -42,9 +42,15 @@ public class User {
     }
     @Override
     public String toString() {
-        return "User [id=" + id + ", name=" + name + ", password=" + password
+        return "UserModel [id=" + id + ", name=" + name + ", password=" + password
                 + ", phone=" + phone + ", address=" + address + "]";
     }
 
 
+    public int checkUserValidity(String name, String password) {
+        if (name==null||password==null||!name.equals(getName())||!password.equals(getPassword())){
+            return -1;
+        }
+        return 0;
+    }
 }
